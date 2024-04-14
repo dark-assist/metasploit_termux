@@ -39,7 +39,7 @@ This script automates the installation of Metasploit on Termux, allowing you to 
 
 ## Credits
 
-This script was created by [Sanatani-Hacker](https://github.com/dark-assist). For any issues or suggestions, please visit the [GitHub repository](https://github.com/dark-assist/metasploit_termux) and open an issue.
+This script was created by [Sanatani-Hacker](https://t.me/sanatani_chat_group). For any issues or suggestions, please visit the [GitHub repository](https://github.com/dark-assist/metasploit_termux) and open an issue.
 
 ## Thanks for Using!
 
