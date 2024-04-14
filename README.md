@@ -8,25 +8,25 @@ This script automates the installation of Metasploit on Termux, allowing you to 
 1. Clone this repository to your local machine or download the script directly.
 
    ```bash
-   git clone https://github.com/your_username/metasploit-installer.git
+   git clone https://github.com/dark-assist/metasploit_termux
    ```
 
 2. Navigate to the directory containing the script.
 
    ```bash
-   cd metasploit-installer
+   cd metasploit-install.sh
    ```
 
 3. Make sure the script is executable.
 
    ```bash
-   chmod +x install_metasploit.sh
+   chmod +x metasploit-install.sh
    ```
 
 4. Run the script.
 
    ```bash
-   ./install_metasploit.sh
+   ./metasploit-install.sh
    ```
 
 5. Follow the on-screen instructions to complete the installation process.
@@ -39,7 +39,7 @@ This script automates the installation of Metasploit on Termux, allowing you to 
 
 ## Credits
 
-This script was created by [Sanatani-Hacker](https://github.com/dark-assist). For any issues or suggestions, please visit the [GitHub repository](https://github.com/your_username/metasploit-installer) and open an issue.
+This script was created by [Sanatani-Hacker](https://github.com/dark-assist). For any issues or suggestions, please visit the [GitHub repository](https://github.com/dark-assist/metasploit_termux) and open an issue.
 
 ## Thanks for Using!
 
