@@ -14,7 +14,7 @@ This script automates the installation of Metasploit on Termux, allowing you to 
 2. Navigate to the directory containing the script.
 
    ```bash
-   cd metasploit-install.sh
+   cd metasploit_termux
    ```
 
 3. Make sure the script is executable.
